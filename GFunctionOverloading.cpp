@@ -30,5 +30,6 @@ int main(void)
     pos1.ShowPosition();
     pos2.ShowPosition();
     pos3.ShowPosition();
+    
     return 0;
 }
